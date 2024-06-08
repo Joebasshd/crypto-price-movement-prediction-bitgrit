@@ -4,7 +4,7 @@ Essentially, the goal of the challenge is to predict whether the value of the cr
 
 The competition was hosted on bitgrit official website [here](https://bitgrit.net/competition/20)
 
-# Evaluation Metric
+### Evaluation Metric
 
 The submissions for the competition were evaluated by F1 Score
 
